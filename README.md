@@ -46,7 +46,7 @@ graph TD;
 
 ## 📊 Dataset Details
 
-* **Dataset Name:** Pabitra09/my\_q\_algo (Hugging Face)
+* **Dataset Name:** my\_q\_algo (Hugging Face)
 * **Format:** JSON / Hugging Face Dataset
 * **Fields:**
 
@@ -88,9 +88,6 @@ Step 3: Traverse array elements one by one.
 
 ---
 
-## 🎥 Demo Video
-
-> \[Link to demo clip or GIF]
 
 ---
 
@@ -100,15 +97,10 @@ Step 3: Traverse array elements one by one.
 
 ---
 
-## 🙋‍♂️ Author
 
-* **Rimi Majumdar**
-* [GitHub](https://github.com/rimi-majumdar)
-* [LinkedIn](https://www.linkedin.com/in/rimi-majumdar/)
 
 ---
 
-## 📄 License
 
 MIT License
 
