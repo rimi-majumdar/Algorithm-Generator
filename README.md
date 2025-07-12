@@ -102,7 +102,7 @@ Step 3: Traverse array elements one by one.
 ---
 
 
-MIT License
+
 
 ---
 
